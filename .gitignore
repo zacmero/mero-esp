@@ -1,0 +1,4 @@
+.venv/
+.serena/
+backups/
+__pycache__/
