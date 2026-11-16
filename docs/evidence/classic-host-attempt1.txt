@@ -1,0 +1,5 @@
+Traceback (most recent call last):
+  File "/home/zacmero/projects/mero-esp/scripts/classic_probe_host.py", line 13, in <module>
+    with socket.socket(socket.AF_BLUETOOTH, socket.SOCK_STREAM, socket.BTPROTO_RFCOMM) as client:
+                       ^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'socket' has no attribute 'AF_BLUETOOTH'

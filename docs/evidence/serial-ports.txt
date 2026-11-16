@@ -1,102 +1,102 @@
-/dev/ttyACM0        
+/dev/ttyACM0
     desc: UsbMonitor
     hwid: USB VID:PID=1A86:5722 SER=USB35INCHIPSV2 LOCATION=2-4.4:1.0
-/dev/ttyACM1        
+/dev/ttyACM1
     desc: USB Single Serial
     hwid: USB VID:PID=1A86:55D4 SER=5AC9040906 LOCATION=2-12:1.0
-/dev/ttyS0          
+/dev/ttyS0
     desc: n/a
     hwid: n/a
-/dev/ttyS1          
+/dev/ttyS1
     desc: n/a
     hwid: n/a
-/dev/ttyS2          
+/dev/ttyS2
     desc: n/a
     hwid: n/a
-/dev/ttyS3          
+/dev/ttyS3
     desc: n/a
     hwid: n/a
-/dev/ttyS4          
+/dev/ttyS4
     desc: n/a
     hwid: n/a
-/dev/ttyS5          
+/dev/ttyS5
     desc: n/a
     hwid: n/a
-/dev/ttyS6          
+/dev/ttyS6
     desc: n/a
     hwid: n/a
-/dev/ttyS7          
+/dev/ttyS7
     desc: n/a
     hwid: n/a
-/dev/ttyS8          
+/dev/ttyS8
     desc: n/a
     hwid: n/a
-/dev/ttyS9          
+/dev/ttyS9
     desc: n/a
     hwid: n/a
-/dev/ttyS10         
+/dev/ttyS10
     desc: n/a
     hwid: n/a
-/dev/ttyS11         
+/dev/ttyS11
     desc: n/a
     hwid: n/a
-/dev/ttyS12         
+/dev/ttyS12
     desc: n/a
     hwid: n/a
-/dev/ttyS13         
+/dev/ttyS13
     desc: n/a
     hwid: n/a
-/dev/ttyS14         
+/dev/ttyS14
     desc: n/a
     hwid: n/a
-/dev/ttyS15         
+/dev/ttyS15
     desc: n/a
     hwid: n/a
-/dev/ttyS16         
+/dev/ttyS16
     desc: n/a
     hwid: n/a
-/dev/ttyS17         
+/dev/ttyS17
     desc: n/a
     hwid: n/a
-/dev/ttyS18         
+/dev/ttyS18
     desc: n/a
     hwid: n/a
-/dev/ttyS19         
+/dev/ttyS19
     desc: n/a
     hwid: n/a
-/dev/ttyS20         
+/dev/ttyS20
     desc: n/a
     hwid: n/a
-/dev/ttyS21         
+/dev/ttyS21
     desc: n/a
     hwid: n/a
-/dev/ttyS22         
+/dev/ttyS22
     desc: n/a
     hwid: n/a
-/dev/ttyS23         
+/dev/ttyS23
     desc: n/a
     hwid: n/a
-/dev/ttyS24         
+/dev/ttyS24
     desc: n/a
     hwid: n/a
-/dev/ttyS25         
+/dev/ttyS25
     desc: n/a
     hwid: n/a
-/dev/ttyS26         
+/dev/ttyS26
     desc: n/a
     hwid: n/a
-/dev/ttyS27         
+/dev/ttyS27
     desc: n/a
     hwid: n/a
-/dev/ttyS28         
+/dev/ttyS28
     desc: n/a
     hwid: n/a
-/dev/ttyS29         
+/dev/ttyS29
     desc: n/a
     hwid: n/a
-/dev/ttyS30         
+/dev/ttyS30
     desc: n/a
     hwid: n/a
-/dev/ttyS31         
+/dev/ttyS31
     desc: n/a
     hwid: n/a

@@ -1,0 +1,2 @@
+d380d8c94ee05959cab390e909cc9c2c3b85f4a8c9079df1f8f9d2788c7fdaf0  backups/esp32-original-a.bin
+d380d8c94ee05959cab390e909cc9c2c3b85f4a8c9079df1f8f9d2788c7fdaf0  backups/esp32-original-b.bin

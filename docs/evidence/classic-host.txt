@@ -1,0 +1,1 @@
+{"classic_rfcomm": "PASS", "round_trips": 20, "bytes_each_direction": 320}

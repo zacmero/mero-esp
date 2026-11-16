@@ -1,0 +1,48 @@
+esptool v5.6.0
+Image size: 3145728 bytes
+Detected image type: ESP32
+
+ESP32 Image Header
+==================
+Image version: 1
+Entry point: 0x40081394
+Segments: 7
+Flash size: 4MB
+Flash freq: 40m
+Flash mode: DIO
+
+ESP32 Extended Image Header
+===========================
+WP pin: 0xee (disabled)
+Flash pins drive settings: clk_drv: 0x0, q_drv: 0x0, d_drv: 0x0, cs0_drv: 0x0, hd_drv: 0x0, wp_drv: 0x0
+Chip ID: 0 (ESP32)
+Minimal chip revision: v0.0, (legacy min_rev = 0)
+Maximal chip revision: v0.0
+
+Segments Information
+====================
+Segment   Length   Load addr   File offs  Memory types
+-------  -------  ----------  ----------  ------------
+      0  0x295d8  0x3f400020  0x00000018  DROM
+      1  0x04474  0x3ffbdb60  0x000295f8  BYTE_ACCESSIBLE, DRAM
+      2  0x0259c  0x40080000  0x0002da74  IRAM
+      3  0x111630  0x400d0020  0x00030018  IROM
+      4  0x1b568  0x4008259c  0x00141650  IRAM
+      5  0x00064  0x400c0000  0x0015cbc0  RTC_IRAM
+      6  0x00010  0x50000000  0x0015cc2c  RTC_DATA
+
+ESP32 Image Footer
+==================
+Checksum: 0x35 (valid)
+Validation hash: d00ae16083ced2cb453bc9f7159b8e514b4b2f07745aa5c4d01f398c35f17a85 (valid)
+
+Application Information
+=======================
+Project name: esp-at
+App version: v2.3.0.0_esp32c3-142-g5641e0a-d
+Compile time: May 20 2022 11:11:58
+ELF file SHA256: b44dd466e089c20dd2c784305b88a7ab1f7d28ff37019013b5ffbb16a8b3eb3d
+ESP-IDF: qa-test-v4.3.3-20220423
+Minimal eFuse block revision: 0.0
+Maximal eFuse block revision: 0.0
+Secure version: 0

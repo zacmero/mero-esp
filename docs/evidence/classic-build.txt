@@ -1,0 +1,25 @@
+Compiling .pio/build/esp32dev/FrameworkArduino/esp32-hal-timer.c.o
+Compiling .pio/build/esp32dev/FrameworkArduino/esp32-hal-tinyusb.c.o
+Compiling .pio/build/esp32dev/FrameworkArduino/esp32-hal-touch.c.o
+Compiling .pio/build/esp32dev/FrameworkArduino/esp32-hal-uart.c.o
+Compiling .pio/build/esp32dev/FrameworkArduino/firmware_msc_fat.c.o
+Compiling .pio/build/esp32dev/FrameworkArduino/libb64/cdecode.c.o
+Compiling .pio/build/esp32dev/FrameworkArduino/libb64/cencode.c.o
+Compiling .pio/build/esp32dev/FrameworkArduino/main.cpp.o
+Compiling .pio/build/esp32dev/FrameworkArduino/stdlib_noniso.c.o
+Compiling .pio/build/esp32dev/FrameworkArduino/wiring_pulse.c.o
+Compiling .pio/build/esp32dev/FrameworkArduino/wiring_shift.c.o
+Archiving .pio/build/esp32dev/libFrameworkArduino.a
+Indexing .pio/build/esp32dev/libFrameworkArduino.a
+Linking .pio/build/esp32dev/firmware.elf
+Retrieving maximum program size .pio/build/esp32dev/firmware.elf
+Checking size .pio/build/esp32dev/firmware.elf
+Advanced Memory Usage is available via "PlatformIO Home > Project Inspect"
+RAM:   [=         ]  12.1% (used 39804 bytes from 327680 bytes)
+Flash: [========  ]  83.6% (used 1096025 bytes from 1310720 bytes)
+Building .pio/build/esp32dev/firmware.bin
+esptool.py v4.5.1
+Creating esp32 image...
+Merged 27 ELF sections
+Successfully created esp32 image.
+========================= [SUCCESS] Took 45.88 seconds =========================

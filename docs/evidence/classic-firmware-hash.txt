@@ -1,0 +1,1 @@
+c0d782568ab2eaac13eabc17c0dc625217470e4e4a4a44ee7599ab0d630293b1  diagnostics/classic/.pio/build/esp32dev/firmware.bin

@@ -1,0 +1,14 @@
+{
+  "recorded_at_utc": "2026-11-16T23:42:14.276126+00:00",
+  "chip": "ESP32-D0WD-V3",
+  "revision": "3.1",
+  "flash_bytes": 4194304,
+  "backup_a_b_and_restored_equal": true,
+  "flash_sha256": "d380d8c94ee05959cab390e909cc9c2c3b85f4a8c9079df1f8f9d2788c7fdaf0",
+  "wifi_association_dhcp_dns_http": "PASS",
+  "ble_round_trips": 20,
+  "classic_rfcomm_round_trips": 20,
+  "classic_bytes_each_direction": 320,
+  "final_firmware": "original restored",
+  "log_note": "Terminal formatting and progress-only lines removed; command results retained. Original terminal captures stored locally under ignored backups/evidence-raw/."
+}

@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/home/zacmero/projects/mero-esp/scripts/ble_probe_host.py", line 40, in <module>
+    asyncio.run(probe(parser.parse_args().address))
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/zacmero/.local/share/uv/python/cpython-3.13.13-linux-x86_64-gnu/lib/python3.13/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+           ~~~~~~~~~~^^^^^^
+  File "/home/zacmero/.local/share/uv/python/cpython-3.13.13-linux-x86_64-gnu/lib/python3.13/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "/home/zacmero/.local/share/uv/python/cpython-3.13.13-linux-x86_64-gnu/lib/python3.13/asyncio/base_events.py", line 725, in run_until_complete
+    return future.result()
+           ~~~~~~~~~~~~~^^
+  File "/home/zacmero/projects/mero-esp/scripts/ble_probe_host.py", line 15, in probe
+    raise RuntimeError("ESP32 advertisement not found at " + address)
+RuntimeError: ESP32 advertisement not found at 88:57:21:70:81:02

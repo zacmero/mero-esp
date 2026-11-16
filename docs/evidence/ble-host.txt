@@ -1,0 +1,1 @@
+{"advertisement": "PASS", "connection": "PASS", "gatt_read": "PASS", "gatt_write": "PASS", "notifications": "PASS", "round_trips": 20}

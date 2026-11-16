@@ -2,3 +2,4 @@
 .serena/
 backups/
 __pycache__/
+.pio/

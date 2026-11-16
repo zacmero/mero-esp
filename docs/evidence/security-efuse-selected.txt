@@ -1,0 +1,18 @@
+DISABLE_DL_CACHE (BLOCK0)                          Disable flash cache in UART bootloader             = False R/W (0b0)
+FLASH_CRYPT_CNT (BLOCK0)                           Flash encryption is enabled if this field has an o = 0 R/W (0b0000000)
+CHIP_PACKAGE_4BIT (BLOCK0)                         Chip package identifier #4bit                      = False R/W (0b0)
+CHIP_PACKAGE (BLOCK0)                              Chip package identifier                            = 1 R/W (0b001)
+CHIP_VER_REV1 (BLOCK0)                             bit is set to 1 for rev1 silicon                   = True R/W (0b1)
+CHIP_VER_REV2 (BLOCK0)                                                                                = True R/W (0b1)
+WAFER_VERSION_MAJOR (BLOCK0)                       calc WAFER VERSION MAJOR from CHIP_VER_REV1 and CH = 3 R/W (0b011)
+PKG_VERSION (BLOCK0)                               calc Chip package = CHIP_PACKAGE_4BIT << 3 + CHIP_ = 1 R/W (0x1)
+MAC (BLOCK0)                                       MAC address
+MAC_CRC (BLOCK0)                                   CRC8 for MAC address                               = 116 R/W (0x74)
+MAC_VERSION (BLOCK3)                               Version of the MAC field                           = 0 R/W (0x00)
+CUSTOM_MAC_CRC (BLOCK3)                            CRC8 for custom MAC address                        = 0 R/W (0x00)
+CUSTOM_MAC (BLOCK3)                                Custom MAC address
+UART_DOWNLOAD_DIS (BLOCK0)                         Disable UART download mode. Valid for ESP32 V3 and = False R/W (0b0)
+ABS_DONE_0 (BLOCK0)                                Secure boot V1 is enabled for bootloader image     = False R/W (0b0)
+ABS_DONE_1 (BLOCK0)                                Secure boot V2 is enabled for bootloader image     = False R/W (0b0)
+DISABLE_DL_ENCRYPT (BLOCK0)                        Disable flash encryption in UART bootloader        = False R/W (0b0)
+DISABLE_DL_DECRYPT (BLOCK0)                        Disable flash decryption in UART bootloader        = False R/W (0b0)
