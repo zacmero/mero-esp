@@ -41,6 +41,10 @@ The [ESP32 datasheet](https://www.espressif.com/sites/default/files/documentatio
 
 ## Firmware preservation workflow for later work
 
+### Pending radio-test prerequisites
+
+End-to-end radio verification is pending identification of an owned Wi-Fi access point and a compatible Bluetooth peer available to this bench. No test SSID or Bluetooth peer has been supplied. Wi-Fi authentication, packet delivery and Bluetooth connection success cannot be established without reachable endpoints. The captured application output includes `module_name:WROOM-32`, `max tx power=78,ret=0` and `2.4.0`; these are firmware-reported strings, not independent module identification or successful RF tests. No documented application control interface has been established yet.
+
 For this ESP32, the documented [esptool read-flash command](https://docs.espressif.com/projects/esptool/en/latest/esp32/esptool/basic-commands.html) can capture the detected 4 MB address range. These commands are a future procedure and were not executed in this reconnaissance:
 
 ```bash
