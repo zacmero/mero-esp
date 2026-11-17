@@ -6,6 +6,8 @@ Evidence collected 2026-11-16 on the connected board. The original flash was rea
 
 For copy-and-paste identification, serial, backup, radio-test and recovery commands, see [Probe the board yourself](docs/probe-commands.md).
 
+For future experiments, see [Experimental computing roadmap](docs/experimental-computing-roadmap.md): CP/M, NuttX and WebAssembly, Forth/Lisp, ULP coprocessor programming, emulated Linux, Bluetooth synthesis, and KolibriOS compatibility.
+
 ## Identified hardware
 
 | Item | Observed value |
